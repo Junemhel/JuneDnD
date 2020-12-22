@@ -17,14 +17,15 @@ i{
 
 .head{
 	border-radius: 50px;
-  	margin-top: 2%;
-    margin-left: 5%;
-  	width: 100%;
-  	text-align: center;
-  	background-color: rgba( 0, 0, 0, 0.7);  
-  	font-family: Copperplate, fantasy;
-  	color: white;  
-  	font-size: 300%;  
+  margin: auto;
+  margin-top: 2%;
+  margin-left: 5%;
+  width: 100%;
+  text-align: center;
+  background-color: rgba( 0, 0, 0, 0.7);  
+  font-family: Copperplate, fantasy;
+  color: white;  
+  font-size: 300%;  
 }
 
 .navbar {
