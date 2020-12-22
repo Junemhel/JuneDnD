@@ -1,7 +1,13 @@
 
+
 i{
   margin-top: 15px;
   font-size: 30px;
+}
+
+.body1{
+  background-image: url('img/0_Welcome.png') no-repeat center fixed;
+  background-size: cover;
 }
 
 .iselected{
